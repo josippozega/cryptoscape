@@ -1,4 +1,4 @@
-import dash  # pip install dash
+#import dash  # pip install dash
 import dash_cytoscape as cyto  # pip install dash-cytoscape==0.2.0 or higher
 import dash_html_components as html
 import dash_core_components as dcc
